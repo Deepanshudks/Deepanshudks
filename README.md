@@ -15,7 +15,7 @@ npx deepanshudks
 
 ## 🛠 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,mongodb,express,react,nodejs,nextjs,ts,postgres,bootstrap,tailwind,git,github,docker,linux,postman,vscode,prisma&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,mongodb,express,react,nodejs,nextjs,ts,postgres,bootstrap,tailwind,git,github,docker,linux,postman,vscode,prisma,docker&theme=dark" alt="Skills" />
 </p>
 
 ---

@@ -7,7 +7,7 @@ npx deepanshudks
 
 ---
 
-- 🌱 **🚀 Focused On:** Architecting scalable applications using modern full-stack technologies
+- 🚀 **Focused On:** Architecting scalable applications using modern full-stack technologies
 - 🌱 **Currently Exploring:** Web3, System Design, and Advanced Backend Engineering
 - 💬 **Tech Stack Expertise:** C/C++, MERN Stack, Next.js, REST APIs, Database Design
 - ⚡ **Philosophy:** Write efficient code. Design scalable systems. Never stop learning.

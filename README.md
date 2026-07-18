@@ -1,30 +1,109 @@
-<h1 align="center">Kuldeep Gaud</h1> <h3 align="center">Full Stack Developer | Problem Solver | Tech Enthusiast</h3> <p align="center"> Building scalable web applications, crafting efficient algorithms, and exploring modern full-stack architectures. </p> <p align="right"> <img src="https://komarev.com/ghpvc/?username=abhimishra114&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
+<div align="center">
+
+# Hi 👋, I'm Kuldeep Gaud
+
+### Full Stack Developer • React • Next.js • Node.js • TypeScript
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;TypeScript+%7C+PostgreSQL+%7C+Prisma;Always+Learning+Something+New"/>
+
+<img src="https://komarev.com/ghpvc/?username=Deepanshudks&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
-```
+
+# 💫 About Me
+
+```bash
 npx deepanshudks
 ```
 
+```yaml
+Name: Kuldeep Gaud
+
+Role: Full Stack Developer
+
+Experience: 1+ Years
+
+Location: India
+
+Current Focus:
+  - React & Next.js
+  - Node.js
+  - System Design
+  - Cloud
+  - AI Applications
+
+Currently Building:
+  - ApplyFlow
+```
+
 ---
 
-- 🚀 **Focused On:** Architecting scalable applications using modern full-stack technologies
-- 🌱 **Currently Exploring:** Web3, System Design, and Advanced Backend Engineering
-- 💬 **Tech Stack Expertise:** C/C++, MERN Stack, Next.js, REST APIs, Database Design
-- ⚡ **Philosophy:** Write efficient code. Design scalable systems. Never stop learning.
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,express,mongodb,postgres,prisma,tailwind,docker,aws,git,github,vscode,linux,postman&theme=dark"/>
+
+</div>
 
 ---
 
-## 🛠 Languages & Tools
+# 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,mongodb,express,react,nodejs,nextjs,ts,postgres,bootstrap,tailwind,git,github,docker,linux,postman,vscode,prisma&theme=dark" alt="Skills" />
+
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Deepanshudks&theme=tokyonight"/>
+
+</p>
+
+
+
+---
+
+
+
+# 🐍 Contribution 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deepanshudks/Deepanshudks/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deepanshudks/Deepanshudks/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Deepanshudks/Deepanshudks/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/kuldeepgaud-dev">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Deepanshudks">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://hikuldeep.in">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
 </p>
 
 ---
 
-## 🌐 Let's Connect! 
-  <p align="center"> <a href="https://www.linkedin.com/in/kuldeepgaud-dev/"> <img src="https://img.shields.io/badge/LinkedIn-Kuldeep%20Gaud-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://twitter.com/deepanshudk08"> <img src="https://img.shields.io/badge/Twitter-@deepanshudk08-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="https://www.instagram.com/deepanshudks/"> <img src="https://img.shields.io/badge/Instagram-@deepanshudks-purple?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
+<div align="center">
 
+### 💙 "Code. Learn. Build. Repeat."
 
-  <br>
-  <br>
-  </p>
+⭐ If you like my work, consider starring my repositories.
+
+</div>

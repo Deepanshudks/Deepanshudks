@@ -19,14 +19,14 @@ const kuldeep = {
     location: "India 🇮🇳",
 
     code: [
-        "React",
+        "React.js",
         "Next.js",
         "React Native",
         "TypeScript",
         "Node.js",
         "Express",
         "PostgreSQL",
-        "MongoDB"
+        "MongoDB",
     ],
 
     currentlyBuilding: "ApplyFlow",

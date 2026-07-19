@@ -21,6 +21,7 @@ const kuldeep = {
     code: [
         "React",
         "Next.js",
+        "React Native",
         "TypeScript",
         "Node.js",
         "Express",

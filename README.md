@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New"/>
 
-<img src="https://komarev.com/ghpvc/?username=Deepanshudks&style=for-the-badge&color=2563EB"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=Deepanshudks&style=for-the-badge&color=2563EB"/> -->
 
 </div>
 

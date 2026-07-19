@@ -52,19 +52,6 @@ const kuldeep = {
 
 ---
 
-## ⭐ Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🎨 **hiDoodle** | Multiplayer collaborative drawing & chat platform |
-| 📁 **QuickLink** | Secure cloud file sharing with QR support |
-| 🎥 **CineGen** | AI-powered cinematic video generation |
-| 📚 **ShikshaPrep** | AI PDF to Mock Test Generator |
-| 📝 **Medium Clone** | Blogging platform built on Cloudflare Workers |
-| 🚨 **Arista** | Smart disaster management platform |
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">

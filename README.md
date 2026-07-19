@@ -15,7 +15,7 @@
 ```ts
 const kuldeep = {
     role: "Full Stack Developer",
-    experience: "1+ Years",
+    experience: "1.4+ Years",
     location: "India 🇮🇳",
 
     code: [

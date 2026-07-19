@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2563EB,100:7C3AED&text=Kuldeep%20Gaud&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20React%20•%20Next.js%20•%20Node.js&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&lines=Software Engineer;Building+Scalable+Web+Applications;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New"/>
 
 <!-- <img src="https://komarev.com/ghpvc/?username=Deepanshudks&style=for-the-badge&color=2563EB"/> -->
 

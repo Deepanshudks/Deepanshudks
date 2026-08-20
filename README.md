@@ -1,90 +1,37 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2563EB,100:7C3AED&text=Kuldeep%20Gaud&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20React%20•%20Next.js%20•%20Node.js&descAlignY=58"/>
+# KULDEEP GAUD
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&lines=Software+Engineer;Building+Scalable+Web+Applications;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New"/>
+`full-stack engineer` · `builder` · `professional debugger`
 
-<!-- <img src="https://komarev.com/ghpvc/?username=Deepanshudks&style=for-the-badge&color=2563EB"/> -->
+### I turn coffee ☕ into web apps.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://hikuldeep.in)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kuldeepgaud-dev)
+[![Email](https://img.shields.io/badge/EMAIL-000?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:kuldeepgaud.0810@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+```bash
+$ whoami
 
-```ts
-const kuldeep = {
-    role: "Full Stack Developer",
-    experience: "1.4+ Years",
-    location: "India 🇮🇳",
+Kuldeep Gaud
 
-    code: [
-        "React.js",
-        "Next.js",
-        "React Native",
-        "TypeScript",
-        "Node.js",
-        "Express",
-        "PostgreSQL",
-        "MongoDB",
-    ],
-
-    currentlyBuilding: "ApplyFlow",
-
-    interests: [
-        "System Design",
-        "Cloud",
-        "AI",
-        "Open Source"
-    ]
-}
+> Full Stack Developer
+> React • Next.js • Node.js • TypeScript
+> Building things that probably didn't need to be this complicated.
 ```
 
----
+### 🛠️ I build with
 
-## 🚀 Tech Stack
-
-<div >
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,express,mongodb,postgres,prisma,tailwind,docker,aws,git,github,linux,vscode,postman"/>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,postgres,mongodb,prisma,tailwind,docker,aws,git,github&perline=13" />
 
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepanshudks&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<!-- <div align="center">
-
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Deepanshudks&theme=tokyo-night&hide_border=true"/>
-
-</div> -->
-
-
----
-
-## 🌐 Connect
-
-<div align="center">
-
-<a href="https://hikuldeep.in">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kuldeepgaud-dev">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:kuldeepgaud.0810@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
 
 </div>
 
@@ -92,10 +39,7 @@ const kuldeep = {
 
 <div align="center">
 
-### 💙 *Code • Build • Learn • Repeat*
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:2563EB,100:7C3AED"/>

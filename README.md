@@ -4,7 +4,7 @@
 
 `full-stack engineer` · `builder` · `professional debugger`
 
-### I turn coffee ☕ into web apps.
+### I turn coffee into web apps.
 
 <br/>
 
